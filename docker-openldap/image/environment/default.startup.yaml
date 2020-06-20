@@ -65,5 +65,3 @@ SSL_HELPER_AUTO_RENEW_SERVICES_IMPACTED: slapd
 # Internal seeding. For example, for services in Gitlab CI.
 LDAP_SEED_INTERNAL_LDIF_PATH:
 LDAP_SEED_INTERNAL_SCHEMA_PATH:
-
-# HOSTNAME: arqsoft.unal.edu.co
