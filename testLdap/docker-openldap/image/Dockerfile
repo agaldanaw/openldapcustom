@@ -1,6 +1,6 @@
 # Use osixia/light-baseimage
 # sources: https://github.com/osixia/docker-light-baseimage
-FROM osixia/light-baseimage:1.2.0
+FROM osixia/openldap:1.1.8
 
 ARG LDAP_OPENLDAP_GID
 ARG LDAP_OPENLDAP_UID

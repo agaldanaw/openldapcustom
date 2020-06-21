@@ -1,4 +1,4 @@
-PHPLDAPADMIN_LDAP_HOSTS: optimistic_bose
+PHPLDAPADMIN_LDAP_HOSTS: ldap
 
 # LDAP client tls config
 PHPLDAPADMIN_LDAP_CLIENT_TLS: false
